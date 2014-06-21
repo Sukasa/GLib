@@ -1,0 +1,15 @@
+*.suo
+*.user
+bin
+x64
+obj
+*.pdb
+*.cache
+*_svn
+*.svn
+*.suo
+*.user
+*.build-res
+TestResults
+_ReSharper*
+*.ncb
