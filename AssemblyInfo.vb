@@ -12,5 +12,5 @@
 <Assembly: System.Runtime.InteropServices.Guid("0F3F67A6-E36E-4f83-BE40-3B9C9F17EA24")> 
 <Assembly: System.Runtime.InteropServices.ComVisible(False)>
 <Assembly: System.Reflection.AssemblyTrademark("")>
-<Assembly: System.Reflection.AssemblyCopyright("2011 Nicholas Matear")> 
+<Assembly: System.Reflection.AssemblyCopyright("2011 Sukasa")> 
 
